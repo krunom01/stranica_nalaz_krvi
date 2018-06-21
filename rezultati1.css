@@ -1,0 +1,27 @@
+body {
+    background-color: #990000 ;
+}
+.rezultatitesta {
+
+    height: 500px;
+    width: 20%;
+    float: left; 
+   
+
+}
+
+.misljenje {
+    width: 80%;
+    height: 500px;
+    float: right;
+    background-color: red;
+    color : white ;
+   
+}
+.naslov {
+    text-align: center;
+    font-size: 1.4em;
+}
+p {
+    color: white;
+}

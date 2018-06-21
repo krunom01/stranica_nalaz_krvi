@@ -1,0 +1,70 @@
+
+header {
+    height: 150px;
+    width: 100%;
+    background-image: url("pictures/slika2.jpg");
+    background-size : 33.33333%;
+}
+.navbar {
+    border-radius: 0  !important;
+    margin-bottom: 0 !important;
+}
+.container {
+width: 100% !important;
+height: 460px ;
+margin: 0 auto;
+background-color:#990000;
+
+
+}
+
+.podaci {
+    width: 100%;
+    height: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+    
+ 
+    
+    
+}
+.rezultati {
+    width: 100%;
+    height: 350px;
+    
+}
+
+.inputPodaci {
+    margin-top: 15px;
+    margin-bottom: 15px;
+   
+    
+}
+.zadatak {
+    font-size: 1.2em;
+    color: white;
+}
+.spol {
+    color: white;
+}
+span {
+    color: white;
+}
+input[name="posalji"]{
+    background-color: black;
+    color : white;
+}
+.error {
+    margin-top: 20px;
+    color: white !important;
+}
+.rezultatitesta {
+ width: 100% ;
+height: 450px ;
+margin: 0 auto;
+background-color:#990000 ;
+}
+p {
+    color : white;
+}
